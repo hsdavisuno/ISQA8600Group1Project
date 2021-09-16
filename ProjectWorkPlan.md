@@ -8,7 +8,7 @@ __Team 1__ : __Scott Bui, Heather Davis, Akhil Kodali__
 Mode of Contact: Microsoft Teams will be our main source of contact. We have established a group message by our phone numbers for quick contact on more immediate matters. Team members will collaborate on important follow-up dates for proofing and to assure work is progressing as scheduled. The agreed time period for responding is one day for texts and 2 days for Teams messages. If a team member does not respond to a Teams message in two days, the message initiator will escalate to text. If team member does not respond to a text in one day, the initiator will call.
 
 ## CONTRIBUTORSHIP STATEMENT
-Scott Bui worked on the initial draft of the scheduling, compiling the assignments and it's deliverable together in an excel and word document. Milestones and due dates were roughly added to be reviewed by the team to make further changes later on by the team members. Heather Davis contributed project planning template and final draft. Akhil Kodali moved the draft excel document into a markdown document.
+Scott Bui worked on the initial draft of the scheduling, compiling the assignments and it's deliverable together in an excel and word document. Milestones and due dates were roughly added to be reviewed by the team to make further changes later on by the team members. Heather Davis contributed project planning template and final draft. Akhil Kodali moved the draft excel document into the final markdown document.
 
 
 
