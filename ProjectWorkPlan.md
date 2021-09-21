@@ -19,19 +19,18 @@ Scott Bui worked on the initial draft of the scheduling, compiling the assignmen
 Task/Subtask | Start Date | Due Date | Days | Responsibility | Status | Notes
  --- | --- | --- | --- | --- | --- | ---
  `Work Plan` | `9/9/2021` | `9/16/2021` | `7` |` All` | `In progress`| 
-Rough Draft|	9/9/2021|	9/16/2021|	7|	All|	Complete|	Scott kicks off draft
-Proofing	|9/9/2021|	9/16/2021|	7|	Heather Davis|	In Progress	
-Final Draft|	9/16/2021|	9/16/2021|	0|	Heather Davis|	In Progress	
+Rough Draft|	9/9/2021|	9/16/2021|	7|	All|	Complete
+Proofing	|9/9/2021|	9/16/2021|	7|	Heather Davis|	Complete
+Final Draft|	9/16/2021|	9/16/2021|	0|	Heather Davis|	Complete	
 `Research Questions`|	`9/16/2021`|`	9/23/2021`	|`7`|`	All`|`Not started`
-Rough Draft|	9/16/2021	|9/18/2021|	2	|All|	Not started
-Mission and Goals|	9/16/2021|	9/18/2021|	2|	Heather Davis|	Not started
-Research Questions|	9/16/2021|9/18/2021|2|All|Not started
-Decisions, interventions, and actions|9/16/2021|9/18/2021|2|All|Not started
-Contributor statement|9/16/2021|9/18/2021|2|Akhil Kodali|Not started
-Proofing|9/19/2021|9/20/2021|1|Heather Davis|Not started
-Final Draft|9/21/2021|9/22/2021|1|Heather Davis|Not started
-Submit Materials on GitHub and Canvas|9/22/2021|9/22/2021|0|Akhil Kodali|Not started
+Rough Draft|	9/16/2021	|9/18/2021|	2	|All|	Complete
+Contributor statement|9/16/2021|9/18/2021|2|Akhil Kodali|Complete
+Proofing|9/19/2021|9/20/2021|1|Heather Davis|Complete
+Final Draft|9/21/2021|9/22/2021|1|Heather Davis|Complete
+Convert to Markup and Submit Materials on GitHub|9/22/2021|9/22/2021|0|Akhil Kodali|Not started
+Submit Materials on Canvas|9/22/2021|9/22/2021|0|Akhil|Not started
 Submit question to discussion board|9/22/2021|9/22/2021|0|Scott Bui|Not started
+Update Read Me Document||9/22/2021|9/22/2021|0|Heather Davis|Complete
 `Data Cleaning Documentation`|	`9/23/2021`|	`10/28/2021`|	`35`|	`All`|	`Not started`
 Rough Draft|	9/23/2021|	10/21/2021|	28|	All|	Not started
 Data Sources|	9/23/2021|	10/21/2021|	28|	Akhil Kodali|	Not started
