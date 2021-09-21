@@ -6,7 +6,7 @@ Welcome to the repository for our group 1 ISQA 8600 assignments. We are students
 ## Individual Assignment Links
 Click the links that follow for our completed assignments:
 
-[Project Work Plan](http://placeholder.com)
+[Project Work Plan](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/ProjectWorkPlan.md)
 
 [Research Questions](http://placeholder.com)
 
