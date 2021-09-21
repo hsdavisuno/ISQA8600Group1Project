@@ -28,7 +28,7 @@ Contributor statement|9/16/2021|9/18/2021|2|Akhil Kodali|Complete
 Proofing|9/19/2021|9/20/2021|1|Heather Davis|Complete
 Final Draft|9/21/2021|9/22/2021|1|Heather Davis|Complete
 Convert to Markup and Submit Materials on GitHub|9/22/2021|9/22/2021|0|Akhil Kodali|Not started
-Submit Materials on Canvas|9/22/2021|9/22/2021|0|Akhil|Not started
+Submit Materials on Canvas|9/22/2021|9/22/2021|0|Akhil Kodali|Not started
 Submit question to discussion board|9/22/2021|9/22/2021|0|Scott Bui|Not started
 Update Read Me Document||9/22/2021|9/22/2021|0|Heather Davis|Complete
 `Data Cleaning Documentation`|	`9/23/2021`|	`10/28/2021`|	`35`|	`All`|	`Not started`
