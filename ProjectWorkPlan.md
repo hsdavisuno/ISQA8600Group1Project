@@ -69,7 +69,7 @@ Submit question to discussion board	|11/16/2021	|11/17/2021|	1|Heather Davis|	No
 `Presentation and GitHub Package`|`	11/18/2021`	|`12/7/2021`	|`19`|	`All`|	`Not started`
 Presentation Draft|	11/18/2021	|12/4/2021|	16|	Heather Davis|	Not started| 
 Contributor statement	| 11/26/26/2021	| 11/27/2021 |16	|Akhil Kodali|	Not started| 
-Proofing	| 11/28/2021/1/2021| 11/30/2021	|2|	Heather Davis|Not started|
+Proofing	| 11/28/2021| 11/30/2021	|2|	Heather Davis|Not started|
 Final Draft|	12/1/2021|	12/2/2021	|1|	Heather Davis|	Not started|
 Presentation Practice | 12/3/2021| 12/4/2021 |1| All| Not started|
 Submit Materials on GitHub and Canvas	|12/5/2021	|12/6/2021	|1|	Scott Bui	|Not started| 
