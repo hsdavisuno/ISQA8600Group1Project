@@ -1,6 +1,8 @@
 #  RQs 
 __Team 1 : Scott Bui, Heather Davis, Akhil Kodali__
 
+<br/>
+
 #### **Contributorship Statement** 
 
 Each group member contributed their own research question and performed research to support their question. Scott posted the discussion question, Heather updated the Read Me and Akhil converted the document into Markdown and posted to GitHub. 
