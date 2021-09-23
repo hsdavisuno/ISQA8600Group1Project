@@ -29,4 +29,4 @@ An initial review of the literature indicates that individuals who identify as f
 
 **How many times a single individual has visited the Heartland family services for Gambling, Substance Use and Mental Health?** 
 
-Knowing the number of visits per person for different age groups might help the decision makers to know the average number of sittings required for an individual to get set for the different programs based on different age groups. 
+Knowing the number of visits per person for different age groups might help the decision makers to know the average number of sittings required for an individual to get set for Gambling, Substance Use and Mental Health based on different age groups. 
