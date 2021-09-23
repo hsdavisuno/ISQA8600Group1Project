@@ -20,6 +20,7 @@ Each group member contributed their own research question and performed research
 #### **Question 2 – Gender - Heather** 
 
 **Does gender affect the duration of service for a client undergoing alcohol treatment?**
+
 An initial review of the literature indicates that individuals who identify as female are more likely to complete an inpatient alcohol treatment program compared to individuals who identify as male. It would be interesting to see if women in Heartland Family Service inpatient alcohol treatment stay in the program longer than men, and if so, decision-makers might look at ways to encourage men to stay in the program longer.  
 
  <br/>
@@ -27,4 +28,5 @@ An initial review of the literature indicates that individuals who identify as f
 #### **Question 3 – Record_ID - Akhil** 
 
 **How many people with same record_id were taking more than one session and at different facility?** 
+
 Through the initial review, I have found out some people with the same record_id took the same treatment at different facilities. It might help decision makers to follow up why the people are going to various places instead of the same place they visited before for their treatment.  
