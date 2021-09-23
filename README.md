@@ -3,7 +3,7 @@
 
 Welcome to the repository for our Group 1 ISQA 8600 assignments. We are students at the University of Nebraska Omaha, and this is where we store our assignments for our ISQA 8600 Data to Decisions class group assignment. 
 
-## Individual Assignment Links
+## Assignment Links
 Click the links that follow for our completed assignments:
 
 [Research Questions](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RQs.md)
