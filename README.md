@@ -6,7 +6,7 @@ Welcome to the repository for our Group 1 ISQA 8600 assignments. We are students
 ## Individual Assignment Links
 Click the links that follow for our completed assignments:
 
-[Research Questions](http://placeholder.com)
+[Research Questions](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RQs.md)
 
 ## License Information
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
