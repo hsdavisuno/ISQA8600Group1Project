@@ -27,6 +27,6 @@ An initial review of the literature indicates that individuals who identify as f
 
 #### **Question 3 – Record_ID - Akhil** 
 
-**How many people with same record_id were taking more than one session and at different facility?** 
+**How many times a single individual has visited the Heartland family services for Gambling, Substance Use and Mental Health?** 
 
-Through the initial review, I have found out some people with the same record_id took the same treatment at different facilities. It might help decision makers to follow up why the people are going to various places instead of the same place they visited before for their treatment.  
+Knowing the number of visits per person for different age groups might help the decision makers to know the average number of sittings required for an individual to get set for the different programs based on different age groups. 
