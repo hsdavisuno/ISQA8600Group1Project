@@ -12,3 +12,4 @@ Click the links that follow for our completed assignments:
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
 
 [This license](https://creativecommons.org/licenses/by-nc/4.0/legalcode) lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
+
