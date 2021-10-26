@@ -3,7 +3,7 @@ Data Cleaning Documentation
 Heather S. Davis, Akhil Kodali, and Scott Bui
 
 October 24, 2021
-
+</br>
 ## Data Sources
 
 -   Heartland Family Services. (2021). HFS Service Data \[Data file\].
@@ -29,12 +29,16 @@ descriptions about the fields. From the SLA Data Columns file, we were
 able to discern helpful information such as the meaning of the codes
 provided for race.
 
+</br>
+
 ## Intellectual Policy Constraints
 
 Permission for us to use this information was given to us by Heartland
 Family Services. Even though the information has been cleaned of
 personal information, we are still bound to observe data privacy
 standards.
+
+</br>
 
 ## Metadata
 
@@ -43,6 +47,8 @@ described in the preceding Data Sources section. This document contained
 short descriptions of the fields, often just writing a longer
 description of the field name but sometimes listing out the meanings of
 codes used in the columns.
+
+</br>
 
 ## Data Issues
 
@@ -54,6 +60,8 @@ codes used in the columns.
 -   simple\_race - In the simple race column, we found values that did
     not correspond to the numeric codes provided in the SLA Data Columns
     document.
+
+</br>
 
 ## Data Remediation
 
@@ -73,6 +81,8 @@ codes used in the columns.
     correspond to the value of man because male was not used for
     individuals who identified themselves as men. We also changed the
     value to Not Obtained to NA since we felt they were very similar.
+    
+</br>
 
 ## Code
 
@@ -196,6 +206,8 @@ str(HFS_Data)
     ##  $ age               : int  26 25 25 25 25 25 26 25 25 25 ...
     ##  $ simple_race       : chr  "Black / African-American" "Black / African-American" "Black / African-American" "Black / African-American" ...
     ##  $ gender_identity   : chr  "NA" "NA" "NA" "NA" ...
+
+</br>
 
 ## Contributor Statement
 
