@@ -93,11 +93,13 @@ library(dplyr)
     ## 
     ##     intersect, setdiff, setequal, union
 
+
 **To load the data**
 
 ``` r
 Full_HFS_Data <- read.csv("HFS Service Data.csv")
 ```
+
 
 **To select the columns that are required for our analysis**
 
@@ -105,17 +107,20 @@ Full_HFS_Data <- read.csv("HFS Service Data.csv")
 HFS_1 <- select(Full_HFS_Data, c(program_name, facility, job_title, event_name, is_approved, NormalWorkHours, total_duration_num, recordID, age, simple_race, gender_identity))
 ```
 
+
 **To select the data that has is\_approved = 1**
 
 ``` r
 HFS_2 <- subset(HFS_1, is_approved == 1) 
 ```
 
+
 **To omit the data that has simple\_race = 21,65,5,9,17,20,81**
 
 ``` r
 HFS_Data <- subset(HFS_2,  simple_race != 21 & simple_race != 65 &simple_race != 5 & simple_race != 9 & simple_race != 17 & simple_race != 20  & simple_race != 81 )
 ```
+
 
 **To replace the numeric codes in simple\_race to actual words.**
 
@@ -131,17 +136,20 @@ HFS_Data$simple_race[HFS_Data$simple_race ==128 ] <- "Other"
 HFS_Data$simple_race[HFS_Data$simple_race ==0 ] <- "Unknown or Not Collected"
 ```
 
+
 **To add modify the column gender\_identity so that all the values having value “Female” are converted to “Woman”**
 
 ``` r
 HFS_Data$gender_identity[HFS_Data$gender_identity == "Female"] <- "Woman"
 ```
 
+
 **To modify the values containing “NA” in data to “Not Obtained”**
 
 ``` r
 HFS_Data[is.na(HFS_Data)] <- "NA"
 ```
+
 
 **To verify data has modified according to our needs**
 
@@ -168,6 +176,7 @@ unique(HFS_Data$is_approved)
 ```
 
     ## [1] 1
+
 
 **To view the modified data**
 
