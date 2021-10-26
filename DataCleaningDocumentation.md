@@ -7,7 +7,7 @@ October 24, 2021
 
 Heartland Family Services. (2021). HFS Service Data \[Data file\].
 Retrieved from
-\[<https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501>\]
+[<https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501>]
 (<https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501>)
 
 The primary data source we used for our data cleaning was the HFS
