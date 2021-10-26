@@ -172,7 +172,7 @@ unique(HFS_Data$is_approved)
 
     ## [1] 1
 
-** To view the modified data **
+**To view the modified data**
 
 ``` r
 str(HFS_Data)
