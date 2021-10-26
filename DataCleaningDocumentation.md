@@ -5,8 +5,8 @@ October 24, 2021
 
 # Data Sources
 
-Heartland Family Services. (2021). HFS Service Data \[Data file\].
-Retrieved from:https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501
+-   Heartland Family Services. (2021). HFS Service Data \[Data file\].
+Retrieved from: https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501
 
 The primary data source we used for our data cleaning was the HFS
 Service Data.csv file from the HFS resources section of Canvas. This
@@ -17,7 +17,7 @@ to clients. The file contained 51 columns and 8746 rows. The primary
 source contained column heading such as: gender, program\_name,
 program\_type, and facility.
 
-Heartland Family Services. (2021). SLA Data Columns 2021-08-25 \[Data
+-   Heartland Family Services. (2021). SLA Data Columns 2021-08-25 \[Data
 file\]. Retrieved from: https://unomaha.instructure.com/courses/50683/files/5217061?module_item_id=1562500
 
 The secondary data source we used for our data cleaning was the SLA Data
