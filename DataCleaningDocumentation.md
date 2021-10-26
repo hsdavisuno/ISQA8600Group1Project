@@ -1,6 +1,7 @@
 Data Cleaning Documentation
 ================
 Heather S. Davis, Akhil Kodali, and Scott Bui
+
 October 24, 2021
 
 ## Data Sources
