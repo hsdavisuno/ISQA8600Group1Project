@@ -28,14 +28,14 @@ descriptions about the fields. From the SLA Data Columns file, we were
 able to discern helpful information such as the meaning of the codes
 provided for race.
 
-# Intellectual Policy Constraints
+## Intellectual Policy Constraints
 
 Permission for us to use this information was given to us by Heartland
 Family Services. Even though the information has been cleaned of
 personal information, we are still bound to observe data privacy
 standards.
 
-# Metadata
+## Metadata
 
 The source we had for Metadata was the SLA Data Columns document
 described in the preceding Data Sources section. This document contained
@@ -43,7 +43,7 @@ short descriptions of the fields, often just writing a longer
 description of the field name but sometimes listing out the meanings of
 codes used in the columns.
 
-# Data Issues
+## Data Issues
 
 -   gender\_identity - In the gender identity column, we found both the
     value of female and woman and felt this was duplicate, especially
@@ -54,7 +54,7 @@ codes used in the columns.
     not correspond to the numeric codes provided in the SLA Data Columns
     document.
 
-# Data Remediation
+## Data Remediation
 
 -   Removed rows we did not need for our research.
 
@@ -73,7 +73,7 @@ codes used in the columns.
     individuals who identified themselves as men. We also changed the
     value to Not Obtained to NA since we felt they were very similar.
 
-# Code
+## Code
 
 **Loading the package for select()**
 
