@@ -8,7 +8,7 @@ October 24, 2021
 -   Heartland Family Services. (2021). HFS Service Data \[Data file\].
 Retrieved from: https://unomaha.instructure.com/courses/50683/files/5256675?module_item_id=1562501
 
-The primary data source we used for our data cleaning was the HFS
+    The primary data source we used for our data cleaning was the HFS
 Service Data.csv file from the HFS resources section of Canvas. This
 file was provided to our class by Clayton Juarez, Ph.D. of Heartland
 Family Services (HFS) in Omaha, Nebraska. Dr. Juarez pulled the data
@@ -20,7 +20,7 @@ program\_type, and facility.
 -   Heartland Family Services. (2021). SLA Data Columns 2021-08-25 \[Data
 file\]. Retrieved from: https://unomaha.instructure.com/courses/50683/files/5217061?module_item_id=1562500
 
-The secondary data source we used for our data cleaning was the SLA Data
+    The secondary data source we used for our data cleaning was the SLA Data
 Columns 2021-08-25.xlsx file from the HFS resources section of Canvas.
 This file was also provide to us by Dr. Juarez. The file contains 3
 columns and 52 rows. It provides the field names, notes, and
