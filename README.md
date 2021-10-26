@@ -8,7 +8,7 @@ Click the links that follow for our completed assignments:
 
 [Research Questions](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RQs.md)
 
-[Data Cleaning Documentation](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/DataCleaningDocumentation.html)
+[Data Cleaning Documentation](https://htmlpreview.github.com/hsdavisuno/ISQA8600Group1Project/blob/main/DataCleaningDocumentation.html)
 
 ## License Information
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
