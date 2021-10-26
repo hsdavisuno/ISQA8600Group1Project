@@ -98,7 +98,7 @@ library(dplyr)
 Full_HFS_Data <- read.csv("HFS Service Data.csv")
 ```
 
-**To select the coloumns that are required for our analysis**
+**To select the columns that are required for our analysis**
 
 ``` r
 HFS_1 <- select(Full_HFS_Data, c(program_name, facility, job_title, event_name, is_approved, NormalWorkHours, total_duration_num, recordID, age, simple_race, gender_identity))
