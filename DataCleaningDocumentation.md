@@ -140,9 +140,9 @@ HFS_Data$simple_race[HFS_Data$simple_race ==0 ] <- "Unknown or Not Collected"
 HFS_Data$gender_identity[HFS_Data$gender_identity == "Female"] <- "Woman"
 ```
 
-# To modify the values containing “NA” in data to “Not Obtained”
+## To modify the values containing “NA” in data to “Not Obtained”
 
-# PS: We have NA in only “gender\_identity” column
+## PS: We have NA in only “gender\_identity” column
 
 ``` r
 HFS_Data[is.na(HFS_Data)] <- "NA"
