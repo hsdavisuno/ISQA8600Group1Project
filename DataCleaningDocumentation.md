@@ -188,7 +188,7 @@ str(HFS_Data)
     ##  $ simple_race       : chr  "Black / African-American" "Black / African-American" "Black / African-American" "Black / African-American" ...
     ##  $ gender_identity   : chr  "NA" "NA" "NA" "NA" ...
 
-# Contributor Statement
+## Contributor Statement
 
 Heather Davis, Scott Bui, and Akhil Kodali reviewed the data, analyzed
 it, and decided what needed to be cleaned from the overall data and
