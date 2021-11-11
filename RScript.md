@@ -3,6 +3,8 @@ R Script
 
 **Team 1 - Akhil Kodali, Heather Davis, Scott Bui**
 
+
+
 # Data Cleaning
 
 Same data cleaning we performed before with one slight modification
@@ -135,6 +137,8 @@ str(HFS_Data)
     ##  $ simple_race       : chr  "Black / African-American" "Black / African-American" "Black / African-American" "Black / African-American" ...
     ##  $ ethnic_identity   : chr  "Not Spanish/Hispanic/Latino" "Not Spanish/Hispanic/Latino" "Not Spanish/Hispanic/Latino" "Not Spanish/Hispanic/Latino" ...
     ##  $ gender_identity   : chr  "Not Obtained" "Not Obtained" "Not Obtained" "Not Obtained" ...
+
+
 
 # Plots
 
@@ -366,6 +370,8 @@ ggplot(data=da2, aes(x=Var1,y=Freq))+geom_bar(stat="identity")+labs(y= "Total Re
 From the above plot we can observe that the working staff also kept on
 decreasing for years through which we can think that HFS is working more
 towards saving their funds.
+
+
 
 # Contributor Statement
 
