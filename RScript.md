@@ -165,7 +165,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num, color = facility))
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/hours%20and%20gender%20id%20with%20facility%20bar-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/Heather.png)<!-- -->
 
 In the normal view of this visualization, it can be observed that people
 who identify as women make up more of the total duration hours than any
@@ -343,7 +343,7 @@ nofvisits <- data.frame(count(HFS_Data,actual_date,program_name,facility))
 ggplot(data = nofvisits,aes(x=actual_date,y=n,fill=facility,na.rm=TRUE))+geom_bar(stat="identity")+facet_wrap(~program_name) 
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/Akhil.png)<!-- -->
 
 In this plot, we can see that the total number of visits are decreasing,
 which can be considered a good sign as the visits are decreasing year by
