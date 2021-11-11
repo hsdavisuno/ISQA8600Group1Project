@@ -10,6 +10,8 @@ Click the links that follow for our completed assignments:
 
 [Data Cleaning Documentation](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/DataCleaningDocumentation.md)
 
+[RScript](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RScript.md)
+
 ## License Information
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
 
