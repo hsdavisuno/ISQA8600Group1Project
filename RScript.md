@@ -147,7 +147,7 @@ geom_point(mapping = aes(x = facility, y = total_duration_num)) +
 facet_grid(. ~gender_identity)
 ```
 
-![](RScript_files/figure-gfm/hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
 
 In this visualization, we are observing whether we could identify some
 trends by faceting by gender identity. We were unable to see much in the
@@ -165,7 +165,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num, color = facility))
 ```
 
-![](RScript_files/figure-gfm/hours%20and%20gender%20id%20with%20facility%20bar-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/hours%20and%20gender%20id%20with%20facility%20bar-1.png)<!-- -->
 
 In the normal view of this visualization, it can be observed that people
 who identify as women make up more of the total duration hours than any
@@ -181,7 +181,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num))
 ```
 
-![](RScript_files/figure-gfm/hours%20and%20gender%20id%20bar-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/hours%20and%20gender%20id%20bar-1.png)<!-- -->
 
 Like the previous plot, this bar chart indicates that people who
 identify as women make up more of the total duration hours than any
@@ -196,7 +196,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num, color = program_name) )
 ```
 
-![](RScript_files/figure-gfm/hours%20and%20gender%20with%20program%20name%20legend-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/hours%20and%20gender%20with%20program%20name%20legend-1.png)<!-- -->
 
 This bar chart indicates that most of the program provides services for
 mental health and substance use, with the majority of services provided
@@ -214,7 +214,7 @@ options(scipen = 999)
 DurationRace
 ```
 
-![](RScript_files/figure-gfm/Hours%20and%20Race%20with%20Program%20Name%20Facet-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/Hours%20and%20Race%20with%20Program%20Name%20Facet-1.png)<!-- -->
 
 From analysis, the group with the highest duration time utilized for the
 service of mental health and substance abuse are the Caucasian group.
@@ -234,7 +234,7 @@ options(scipen = 999)
 DurationAge
 ```
 
-![](RScript_files/figure-gfm/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
 
 Mental health seems to be the highest and most populated health concern
 for all age groups. We can take away that ages 7-10 has the highest
@@ -252,7 +252,7 @@ facet_grid(.~program_name)
 testing2
 ```
 
-![](RScript_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-1-1.png)<!-- -->
 
 This exploration attempt was to see which event was being utilized the
 most by which program. Gambling will be removed because there isn’t much
@@ -271,7 +271,7 @@ ggplot(HFS_Data, aes(program_name,total_duration_num,by1=recordID,fill=program_n
   xlab("Programs offered") +ylab("Total Duration")
 ```
 
-![](RScript_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-2-1.png)<!-- -->
 
 ``` r
   theme(legend.position = "none")
@@ -313,7 +313,7 @@ ggplot(data = HFS_Data) +
   facet_wrap( ~program_name,ncol=1) + labs(y= "Total duration in hours", x = "Different Age Groups")
 ```
 
-![](RScript_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-3-1.png)<!-- -->
 
 This bar chart appears interesting when we compare Iowa and Nebraska
 with Mental Health and Gambling. The people in Iowa are taking more time
@@ -343,12 +343,12 @@ nofvisits <- data.frame(count(HFS_Data,actual_date,program_name,facility))
 ggplot(data = nofvisits,aes(x=actual_date,y=n,fill=facility,na.rm=TRUE))+geom_bar(stat="identity")+facet_wrap(~program_name) 
 ```
 
-![](RScript_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-4-1.png)<!-- -->
 
 In this plot, we can see that the total number of visits are decreasing,
 which can be considered a good sign as the visits are decreasing year by
 year. In the next task for the extension of this, we can find out if it
-is the people or the visits that are decreasing using record\_id.
+is the people or the visits that are decreasing using record_id.
 
 ## Number of staff over the years
 
@@ -361,7 +361,7 @@ da2<-as.data.frame(table(da$actual_date,da$job_title))
 ggplot(data=da2, aes(x=Var1,y=Freq))+geom_bar(stat="identity")+labs(y= "Total Resources", x = "Age Groups")
 ```
 
-![](RScript_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/Rscript/unnamed-chunk-5-1.png)<!-- -->
 
 From the above plot we can observe that the working staff also kept on
 decreasing for years through which we can think that HFS is working more
@@ -370,6 +370,6 @@ towards saving their funds.
 # Contributor Statement
 
 Heather Davis, Scott Bui, and Akhil Kodali each created plots. Heather
-Davis wrote the first draft of the markdown document and Scott Bui added
-the remaining code and plots to it. Heather Davis proofed the document,
+Davis wrote the first draft of the markdown document, Scott Bui added
+the remaining code and Akhil uploaded the plots to it. Heather Davis proofed the document,
 updated the ReadMe with a link, and submitted it for the assignment.
