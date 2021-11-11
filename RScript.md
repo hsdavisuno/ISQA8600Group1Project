@@ -9,7 +9,7 @@ R Script
 
 Same data cleaning we performed before with one slight modification
 identified in the “To modify the values containing”NA" to “Not
-Obtained”" section.
+Obtained” section.
 
 ## Loading the packages for select() and plots
 
