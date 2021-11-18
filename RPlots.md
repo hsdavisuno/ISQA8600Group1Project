@@ -189,7 +189,7 @@ ggplot(data = remove_outliers) +
   facet_grid(. ~gender_identity)
 ```
 
-![](RPlots_files/figure-gfm/plot%20hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/plot%20hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
 
 ### Hours and Gender Identity Only
 
@@ -207,7 +207,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num, fill=gender_identity))
 ```
 
-![](RPlots_files/figure-gfm/hours%20and%20gender%20id%20bar-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/hours%20and%20gender%20id%20bar-1.png)<!-- -->
 
 ### Removing some unwanted outliers
 
@@ -241,7 +241,7 @@ ggplot(age,aes(x=ageg,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(stat="iden
   theme(axis.text.x = element_text(angle=45, vjust=1, hjust=1)) +labs(y= "Average service hours spent", x = "Age Groups",title = "Service hours spent on different age groups by facility and state")
 ```
 
-![](RPlots_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-5-1.png)<!-- -->
 
 Age Groups: We can see from the above graph that the age group 37-54
 takes the longest to get treated, followed by the age groups 19-36 and
@@ -263,7 +263,7 @@ ggplot(gender,aes(x=gender_identity,y=duration_num,na.rm=TRUE,fill=state))+geom_
   labs(y= "Average service hours spent", x = "Gender",title = "Service hours spent on different genders by facility and state")
 ```
 
-![](RPlots_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-6-1.png)<!-- -->
 
 Gender: The most treatment hours are required by women from Nebraska’s
 “RepCntr” facility. If we look at the School facility, the least number
@@ -289,7 +289,7 @@ ggplot(race,aes(x=simple_race,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(st
     labs(y= "Average service hours spent", x = "Race",title = "Service hours spent on different races by facility and state")
 ```
 
-![](RPlots_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-7-1.png)<!-- -->
 
 Race: If we compare all of the facilities, Native Americans receive the
 most hours on average, as shown in the graph above. For the RepCntr
@@ -323,7 +323,7 @@ options(scipen = 999)
 DurationAge
 ```
 
-![](RPlots_files/figure-gfm/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
 
 Mental health seems to be the highest and most populated health concern
 for all age groups. We can take away those ages under 15 has the highest
