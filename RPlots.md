@@ -269,7 +269,7 @@ Gender: The most treatment hours are required by women from Nebraska’s
 of hours necessary for treatment is for Man. We may also see that the
 facilities HFS-Logan and School only have clients from Iowa, whereas
 SancHouse and RepCntr only have clients from Nebraska. If we look at all
-of the facilities, we can conclude that women require more or qual
+of the facilities, we can conclude that women require more or equal
 treatment hours than men.
 
 ### Service hours spent on different races by facility and state
