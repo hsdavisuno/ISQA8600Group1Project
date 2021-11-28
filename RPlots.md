@@ -63,7 +63,7 @@ HFS_Data$simple_race[HFS_Data$simple_race ==128 ] <- "Other"
 HFS_Data$simple_race[HFS_Data$simple_race ==0 ] <- "Unknown or Not Collected"
 ```
 
-### To add modify the column gender\_identity to move Female to Woman, and NA and Client Declined to Give to Not Obtained"
+### To add modify the column gender_identity to move Female to Woman, and NA and Client Declined to Give to Not Obtained
 
 ``` r
 HFS_Data$gender_identity[HFS_Data$gender_identity == "Female"] <- "Woman"
