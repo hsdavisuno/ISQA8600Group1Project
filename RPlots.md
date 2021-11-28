@@ -5,8 +5,7 @@ R Plots
 
 # Data Cleaning
 
-Same data cleaning we performed before with one slight modification
-identified in .
+Same data cleaning we performed before with one slight modification.
 
 ### Loading the required packages
 
