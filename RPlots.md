@@ -5,7 +5,8 @@ R Plots
 
 # Data Cleaning
 
-Same data cleaning we performed before with one slight modification.
+Same data cleaning we performed before with one slight modification
+identified in .
 
 ### Loading the required packages
 
@@ -62,7 +63,7 @@ HFS_Data$simple_race[HFS_Data$simple_race ==128 ] <- "Other"
 HFS_Data$simple_race[HFS_Data$simple_race ==0 ] <- "Unknown or Not Collected"
 ```
 
-### To add modify the column gender_identity to move Female to Woman, and NA and Client Declined to Give to Not Obtained
+### To add modify the column gender\_identity to move Female to Woman, and NA and Client Declined to Give to Not Obtained"
 
 ``` r
 HFS_Data$gender_identity[HFS_Data$gender_identity == "Female"] <- "Woman"
@@ -139,8 +140,8 @@ HFS_Data$gender_identity[HFS_Data$gender_identity == "Two-Spirit"] <- "Non-Binar
 ``` r
 HFS_Data$facility[HFS_Data$facility == "Center Mall Office"] <- "Center"
 HFS_Data$facility[HFS_Data$facility == "North Omaha Intergenerational Campus (Service)"] <- "NOIC"
-HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Logan"] <- "HFS-Logan"
-HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Gendler"] <- "HFS-Other"
+HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Logan"] <- "HFS-Other"
+HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Gendler"] <- "HFS-Gendler"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Child and Family Center"] <- "HFS-Other"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Central"] <- "HFS-Other"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Family Works Nebraska"] <- "HFS-Other"
@@ -188,7 +189,7 @@ ggplot(data = remove_outliers) +
   facet_grid(. ~gender_identity)
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/plot%20hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
+![](RPlots_files/figure-gfm/plot%20hours%20and%20facilities%20with%20gender%20id%20facets-1.png)<!-- -->
 
 ### Hours and Gender Identity Only
 
@@ -206,7 +207,7 @@ ggplot(data = HFS_Data) +
 geom_col(mapping = aes(x = gender_identity, y = total_duration_num, fill=gender_identity))
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/hours%20and%20gender%20id%20bar-1.png)<!-- -->
+![](RPlots_files/figure-gfm/hours%20and%20gender%20id%20bar-1.png)<!-- -->
 
 ### Removing some unwanted outliers
 
@@ -240,7 +241,7 @@ ggplot(age,aes(x=ageg,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(stat="iden
   theme(axis.text.x = element_text(angle=45, vjust=1, hjust=1)) +labs(y= "Average service hours spent", x = "Age Groups",title = "Service hours spent on different age groups by facility and state")
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-5-1.png)<!-- -->
+![](RPlots_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 Age Groups: We can see from the above graph that the age group 37-54
 takes the longest to get treated, followed by the age groups 19-36 and
@@ -262,14 +263,14 @@ ggplot(gender,aes(x=gender_identity,y=duration_num,na.rm=TRUE,fill=state))+geom_
   labs(y= "Average service hours spent", x = "Gender",title = "Service hours spent on different genders by facility and state")
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-6-1.png)<!-- -->
+![](RPlots_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 Gender: The most treatment hours are required by women from Nebraska’s
 “RepCntr” facility. If we look at the School facility, the least number
 of hours necessary for treatment is for Man. We may also see that the
 facilities HFS-Logan and School only have clients from Iowa, whereas
 SancHouse and RepCntr only have clients from Nebraska. If we look at all
-of the facilities, we can conclude that women require more or equal
+of the facilities, we can conclude that women require more or qual
 treatment hours than men.
 
 ### Service hours spent on different races by facility and state
@@ -288,7 +289,7 @@ ggplot(race,aes(x=simple_race,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(st
     labs(y= "Average service hours spent", x = "Race",title = "Service hours spent on different races by facility and state")
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/unnamed-chunk-7-1.png)<!-- -->
+![](RPlots_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 Race: If we compare all of the facilities, Native Americans receive the
 most hours on average, as shown in the graph above. For the RepCntr
@@ -322,7 +323,7 @@ options(scipen = 999)
 DurationAge
 ```
 
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
+![](RPlots_files/figure-gfm/Hours%20and%20Age%20with%20Program%20Name%20Facet-1.png)<!-- -->
 
 Mental health seems to be the highest and most populated health concern
 for all age groups. We can take away those ages under 15 has the highest
