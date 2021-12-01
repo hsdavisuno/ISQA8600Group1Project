@@ -114,8 +114,8 @@ HFS_Data$gender_identity[HFS_Data$gender_identity == "Two-Spirit"] <- "Non-Binar
 ```{r clean group facility into categories}
 HFS_Data$facility[HFS_Data$facility == "Center Mall Office"] <- "Center"
 HFS_Data$facility[HFS_Data$facility == "North Omaha Intergenerational Campus (Service)"] <- "NOIC"
-HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Logan"] <- "HFS-Logan"
-HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Gendler"] <- "HFS-Other"
+HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Logan"] <- "HFS-Other"
+HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Gendler"] <- "HFS-Gendler"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Child and Family Center"] <- "HFS-Other"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Central"] <- "HFS-Other"
 HFS_Data$facility[HFS_Data$facility == "Heartland Family Service - Family Works Nebraska"] <- "HFS-Other"
