@@ -28,7 +28,7 @@ staff.**
 
 ## DATA CLEANING
 
-</br>
+
 
 ### Data Sources
 
@@ -264,7 +264,7 @@ str(HFS_Data)
 
 ## R Script
 
-</br>
+
 
 ### The reason for selecting only Mental Health from the three services provided.
 
@@ -378,7 +378,7 @@ HFS_Data <- HFS_Data %>% mutate(ageg = case_when(age >= 55  & age <= 72 ~ '55-72
 
 ## R Plots
 
-</br>
+
 
 ### The next three plots depict the average number of hours of service required for clients from various demographics who visited various facilities and came from various states.
 
