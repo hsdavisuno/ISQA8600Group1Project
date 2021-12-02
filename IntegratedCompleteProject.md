@@ -13,7 +13,7 @@ demographics have longer service time requirements than others?**
 mental health care. There are also many studies that claim there is a
 link between different demographics and mental health care, which piqued
 our curiosity in conducting this research. The studies that found a link
-between demographics and mental health are listed below:** **1) [The
+between demographics and mental health are listed below:** </br> **1) [The
 State of Mental Health and Aging in
 America](https://www.cdc.gov/aging/pdf/mental_health.pdf)** </br> **2)
 [Gender and
@@ -275,7 +275,7 @@ ggtitle("Total visits by years from the start of service for different program n
 theme(axis.text.x = element_text(angle=45, vjust=1, hjust=1)) 
 ```
 
-![](IntegratedCompleteProject_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-12-1.png)<!-- -->
 
 We can observe from the graph above that visits to mental health
 programs are increased every year when compared to other programs. Other
@@ -291,7 +291,7 @@ ggplot(HFS_Data, aes(program_name,duration_num,by1=recordID,fill=program_name)) 
   xlab("Programs offered") +ylab("Duration")
 ```
 
-![](IntegratedCompleteProject_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-13-1.png)<!-- -->
 
 ``` r
   theme(legend.position = "none")
@@ -399,7 +399,7 @@ ggplot(age,aes(x=ageg,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(stat="iden
   theme(axis.text.x = element_text(angle=45, vjust=1, hjust=1)) +labs(y= "Average service hours spent", x = "Age Groups",title = "Service hours spent on different age groups by facility and state")
 ```
 
-![](IntegratedCompleteProject_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-16-1.png)<!-- -->
 
 **Age Groups:** </br> We can see from the above graph that the age group
 37-54 takes the longest to get treated, followed by the age groups 19-36
@@ -423,7 +423,7 @@ ggplot(gender,aes(x=gender_identity,y=duration_num,na.rm=TRUE,fill=state))+geom_
   labs(y= "Average service hours spent", x = "Gender",title = "Service hours spent on different genders by facility and state")
 ```
 
-![](IntegratedCompleteProject_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-17-1.png)<!-- -->
 
 **Gender:** </br> The most treatment hours are required by women from
 Nebraska’s “RepCntr” facility. If we look at the School facility, the
@@ -451,7 +451,7 @@ ggplot(race,aes(x=simple_race,y=duration_num,na.rm=TRUE,fill=state))+geom_bar(st
     labs(y= "Average service hours spent", x = "Race",title = "Service hours spent on different races by facility and state")
 ```
 
-![](IntegratedCompleteProject_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-18-1.png)<!-- -->
 
 **Race:** </br> If we compare all of the facilities, Native Americans
 receive the most hours on average, as shown in the graph above. For the
