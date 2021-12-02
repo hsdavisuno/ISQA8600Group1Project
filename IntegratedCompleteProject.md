@@ -428,10 +428,10 @@ ggplot(gender,aes(x=gender_identity,y=duration_num,na.rm=TRUE,fill=state))+geom_
 **Gender:** </br> The most treatment hours are required by women from
 Nebraska’s “RepCntr” facility. If we look at the School facility, the
 least number of hours necessary for treatment is for Man. We may also
-see that the facilities HFS-Logan and School only have clients from
-Iowa, whereas SancHouse and RepCntr only have clients from Nebraska. If
+see that the facilities School only have clients from Iowa, whereas 
+SancHouse and RepCntr only have clients from Nebraska. If
 we look at all of the facilities, we can conclude that women require
-more or qual treatment hours than men.
+more or equal treatment hours than men.
 
 </br>
 
@@ -463,7 +463,7 @@ clients require the least amount of service hours.
 **Conclusion from the above 3 graphs:** </br> Regardless of
 demographics, a closer examination of the above three plots reveals that
 clients visiting the same institutions receive identical treatment
-hours. People that come to HFS-Logan, for example, have the same
+hours. People that come to School, for example, have the same
 treatment hours regardless of their demographics. This information may
 aid HFS in determining whether facilities require additional investment
 in order to reduce employee service hours and client treatment hours.
