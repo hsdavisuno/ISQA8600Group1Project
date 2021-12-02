@@ -380,7 +380,7 @@ HFS_Data <- HFS_Data %>% mutate(ageg = case_when(age >= 55  & age <= 72 ~ '55-72
 
 
 
-### The next three plots depict the average number of hours of service required for clients from various demographics who visited various facilities and came from various states.
+### The next three plots depict the average number of hours of service required for clients from various demographics who visited various facilities and came from various states:
 
 </br>
 
