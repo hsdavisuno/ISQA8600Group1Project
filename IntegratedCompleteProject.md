@@ -37,7 +37,7 @@ Retrieved from: https://unomaha.instructure.com/courses/50683/files/5256675?modu
 
     The primary data source we used for our data cleaning was the HFS
     Service Data.csv file from the HFS resources section of Canvas. This
-    file was provided to our class by Clayton Juarez, Ph.D.of Heartland
+    file was provided to our class by Dr. Clayton Juarez, Ph.D.of Heartland
     Family Services (HFS) in Omaha, Nebraska. Dr. Juarez pulled the data
     from a system HFS uses to track the mental health services it
     provides to clients. The file contained 51 columns and 8746 rows.
