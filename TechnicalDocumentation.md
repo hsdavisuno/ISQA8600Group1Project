@@ -258,7 +258,7 @@ str(HFS_Data)
 
 </br> </br>
 
-## R Script
+## R SCRIPT
 
 
 
@@ -372,7 +372,7 @@ HFS_Data <- HFS_Data %>% mutate(ageg = case_when(age >= 55  & age <= 72 ~ '55-72
 
 </br>
 
-## R Plots
+## R PLOTS
 
 
 
