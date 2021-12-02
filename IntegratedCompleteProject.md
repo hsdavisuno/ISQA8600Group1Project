@@ -1,4 +1,4 @@
-Integrated Complete Project
+Technical Documentation
 ================
 
 </br>
@@ -49,7 +49,7 @@ file\]. Retrieved from: https://unomaha.instructure.com/courses/50683/files/5217
 
     The secondary data source we used for our data cleaning was the SLA
     Data Columns 2021-08-25.xlsx file from the HFS resources section of
-    Canvas. This file was also provide to us by Dr. Juarez. The file
+    Canvas. This file was also provided to us by Dr. Juarez. The file
     contains 3 columns and 52 rows. It provides the field names, notes,
     and descriptions about the fields. From the SLA Data Columns file,
     we were able to discern helpful information such as the meaning of
@@ -71,7 +71,7 @@ standards.
 The source we had for Metadata was the SLA Data Columns document
 described in the preceding Data Sources section. This document contained
 short descriptions of the fields, often just writing a longer
-description of the field name but sometimes listing out the meanings of
+description of the field name, but sometimes listing out the meanings of
 codes used in the columns.
 
 </br>
