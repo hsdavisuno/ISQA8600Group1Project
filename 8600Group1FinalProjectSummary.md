@@ -117,10 +117,10 @@ After researching the relationship of age, gender identity, and race with the ho
 
 There also appears to be a trend of higher average duration service encounter hours with Native American clients at Center, HFS-Other, and reporting center facility types. HFS might use this data to:
 
-- Perform further research into the underlying circumstances where facilities might require longer average duration service encounters and look at the HFS-Other facilities to see if significant differences can be identified among them.
+- Perform further research into the underlying circumstances where facilities might require longer average duration service encounters and look at the HFS-Other facilities to see if significant differences can be identified among them
 - Investigate if reporting centers and sanctuary houses might need more resources
 - Plan staff allocation and schedules differently at those locations
-- Consider allocating Native American cultural training to those locations is appropriate.
+- Consider allocating Native American cultural training to those locations is appropriate
 
 
 To a lesser degree, there might be a trend in gender identity that might be worth researching further. Men and women at the reporting centers have an over twenty-point difference. At HFS-Gendler, there is also a twenty-point difference between non-binary clients and women and even more significant difference between non-binary clients and men. 
