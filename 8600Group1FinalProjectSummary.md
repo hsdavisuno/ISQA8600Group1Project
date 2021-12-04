@@ -65,7 +65,7 @@ Because we were provided 25 different facilities and wanted to see if we could i
 
 ### Gender Identity
 
-We changed the value of female to woman to correspond to the value of man because male was not used for individuals who identified themselves as men. We also changed the value to Not Obtained to NA since we felt that Not Obtained and NA were very similar. In the gender identity column, we found both the value of female and woman and felt this was duplicate, especially since we did not see an equivalent with the value of man. Only man was used and not male.
+We changed the value of female to woman to correspond to the value of man because male was not used for individuals who identified themselves as men. We also changed the value of Not Obtained to NA since we felt that Not Obtained and NA were very similar. In the gender identity column, we found both the value of female and woman and felt this was duplicate, especially since we did not see an equivalent with the value of man. Only man was used and not male.
 
 ### Race
 
