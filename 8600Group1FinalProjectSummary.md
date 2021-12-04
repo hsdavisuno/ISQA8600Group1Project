@@ -1,4 +1,4 @@
-# ISQA 8600 Final Project Summary – Mental Health Service Encounter Hours by Age, Gender Identity, and Race and Facility
+# Final Project Summary – Mental Health Service Encounter Hours by Age, Gender Identity, and Race and Facility
 
 # Group 1 – Akhil Kodali, Heather Davis, Scott Bui
 
