@@ -6,13 +6,11 @@ Welcome to the repository for our Group 1 ISQA 8600 assignments. We are students
 ## Assignment Links
 Click the links that follow for our completed assignments:
 
-[Research Questions](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RQs.md)
+[Technical Dcoumentation](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
-[Data Cleaning Documentation](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/DataCleaningDocumentation.md)
+[Summary](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
-[RScript](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RScript.md)
-
-[RPlots](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/RPlots.md)
+[Presentation](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
 ## License Information
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
