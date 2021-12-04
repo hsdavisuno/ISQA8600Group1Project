@@ -255,7 +255,7 @@ HFS_Data$facility[HFS_Data$facility == "Titan Hill Intermediate School"] <- "Sch
 HFS_Data$facility[HFS_Data$facility == "Kanesville Alternative Learning Center"] <- "School"
 ```
 
-We  reassigned the names of facilities for better analysis of data. We grouped all the facilities having school into School, reporting canter as RepCntr, HFS as HFS-Other and HFS\_Gendler. Here we separated  the HFS-Gendler from other HFS facilities because HFS\_Gendler it had more hours associated with it than the other HFS locations.
+We  reassigned the names of facilities for better analysis of data. We grouped all the facilities having school into School, reporting canter as RepCntr, HFS as HFS-Other and HFS\_Gendler. Here we separated  the HFS-Gendler from other HFS facilities because HFS\_Gendler had more hours associated with it than the other HFS locations.
 
  **16. Removing data from other states than Nebraska and Iowa**
 
