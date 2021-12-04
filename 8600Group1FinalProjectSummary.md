@@ -109,7 +109,7 @@ Looking at the data across races, Native Americans appear to receive the most av
 
 ## Conclusions
 
-After researching the relationship of age, gender identity, and race with the hours of mental health service provided to clients by HFS facilities segmented by facility type, our research indicated very little variance in average service hours by age or gender. Most of the variance in average service encounter duration appears to be between facility types. Schools have the shortest duration and reporting centers have the highest. Sanctuary houses are just behind reporting centers. If this is out of alignment with HFS expectations or standards, the organization might:
+After researching the relationship of age, gender identity, and race with the hours of mental health service provided to clients by HFS facilities segmented by facility type, our research indicated very little variance in average service hours by age. Most of the variance in average service encounter duration appears to be between facility types. Schools have the shortest duration and reporting centers have the highest. Sanctuary houses are just behind reporting centers. If this is out of alignment with HFS expectations or standards, the organization might:
 
 - Perform further research into the underlying circumstances where facilities might require longer average duration service encounters
 - Investigate if reporting centers and sanctuary houses might need more resources
