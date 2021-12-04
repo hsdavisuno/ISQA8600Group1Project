@@ -1,4 +1,4 @@
-# Final Project Summary – Mental Health Service Encounter Hours by Age, Gender Identity, and Race and Facility
+# Mental Health Service Encounter Hours by Age, Gender Identity, and Race and Facility Final Project Summary – 
 
 # Group 1 – Akhil Kodali, Heather Davis, Scott Bui
 
