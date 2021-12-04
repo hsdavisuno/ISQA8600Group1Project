@@ -94,7 +94,7 @@ HFS_Data$simple_race[HFS_Data$simple_race ==128 ] <- "Other"
 HFS_Data$simple_race[HFS_Data$simple_race ==0 ] <- "Unknown or Not Collected"
 ```
 
-We are here replacing the numeric numbers with the exact words so that it will be easier to unsderstand as labels.
+We replaced the numeric numbers with the exact words so that it will be easier to unsderstand as labels.
 
 **7. Modifying the column gender\_identity**
 
