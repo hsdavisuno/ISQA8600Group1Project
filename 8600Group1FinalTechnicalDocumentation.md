@@ -132,6 +132,7 @@ HFS_Data <- HFS_Data %>% mutate(actual_date = case_when(actual_date >= 3287  & a
 
 We filtered the days with respect to years from the beginning to the end so that evaluating the results is easier.
 
+
 **10. Verifying the data has been modified according to our needs**
 
 The following code checks the values for the simple race, gender identity, and is approved columns, as well as the column headers.
