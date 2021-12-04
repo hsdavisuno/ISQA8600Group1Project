@@ -6,7 +6,7 @@ Welcome to the repository for our Group 1 ISQA 8600 assignments. We are students
 ## Assignment Links
 Click the links that follow for our completed assignments:
 
-[Technical Dcoumentation](https://github.com/hsdavisuno/ISQA8600Group1Project/)
+[Technical Documentation](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
 [Summary](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
