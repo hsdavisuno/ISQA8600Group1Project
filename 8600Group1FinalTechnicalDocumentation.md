@@ -1,7 +1,8 @@
 # Mental Health Service Encounter Hours by Age, Gender Identity, and Race and Facility Technical Documentation
 
-# Group 1 – Akhil Kodali, Heather Davis, Scott Bui
+### **Group 1 – Akhil Kodali, Heather Davis, Scott Bui**
 
+</br>
 
 ##  DATA CLEANING
 
