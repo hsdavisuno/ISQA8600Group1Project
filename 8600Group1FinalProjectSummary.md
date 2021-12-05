@@ -2,9 +2,13 @@
 
 # Group 1 – Akhil Kodali, Heather Davis, Scott Bui
 
+</br>
+
 ## Introduction
 
 Our research study analyzes the relationship of mental health service encounter hours by age, gender identity, and race at types of facilities run by a U.S. midwestern human services organization, Heartland Family Service (HFS). HFS is a private, non-profit, non-sectarian organization founded in 1875 that provides service in Iowa and Nebraska (Heartland Family Service, n.d., 2020 Annual Report). The mission of HFS is &quot;to strengthen individuals and families in our community through education, counseling, and support services&quot; (Heartland Family Service, n.d., Our Mission).
+
+</br>
 
 ## Analysis Decision Targets or Support
 
@@ -15,6 +19,8 @@ Our research target was to provide HFS with information about how mental health 
 - Plan targeted staff schedule and staff allocation – If certain demographics and/or facilities required more time for service encounters, this could be considered by the organization in its staff scheduling and allocation.
 - Further research – Depending on how the facilities were meeting their planed service encounter hours, HFS could investigate differences between facilities to see if other types of interventions could be applied to alleviate situations where the facilities were exceeding the goals for service encounter hours.
 - Consider targeted and focused diversity and inclusion and cultural staff training resources – If certain demographics and/or facilities required more time for service encounters, training efforts could be focused on the facilities that supported those demographics.
+
+</br>
 
 ## Data Cleaning Choices and Relevance
 
@@ -39,6 +45,15 @@ We performed the following actions to generally clean our data for our use:
 - Although HFS provides services to individuals located in multiple states, we narrowed the focus of our research only to those located in Iowa and Nebraska, where the facilities are located.
 
 ### Mental Health
+
+``` r
+ggplot(HFS_Data, aes(program_name,duration_num,by1=recordID,fill=program_name)) + 
+  geom_boxplot(aes(program_name), alpha=0.3) +
+  xlab("Programs offered") +ylab("Duration")
+    theme(legend.position = "none")
+```
+
+![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-13-1.png)<!-- -->
 
 After analyzing the data by program types (Mental Health, Gambling, and Substance Use), we determined that HFS provides most of its service hours in this program area compared to the other areas. We removed some unwanted statistical outlier hours from Mental Health duration hours.
 
@@ -70,6 +85,8 @@ We changed the value of female to woman to correspond to the value of man becaus
 ### Race
 
 We removed the rows in the Simple Race data that did not correlate with the values provided in the SLA Data Columns document for race, as we felt these were likely mis-keyed values. We also replaced the numeric codes for race with their label values to make them easier to understand. For example, the value 2 was replaced with Alaskan Native. The data indicating two or more races was such a small number of clients, it was removed from our data.
+
+</br>
 
 ## Results and Interpretations
 
@@ -107,6 +124,8 @@ The plot that follows shows the results of our analysis of average service visit
 
 Looking at the data across races, Native Americans appear to receive the most average hours of service encounters, by a significant margin especially at the Center, HFS-Other, and reporting centers. Among Native American clients at the HRS-Other locations, Native Americans from Iowa receive more than double the average amount of service encounter hours than Nebraska Native Americans. There also appears to be a significant difference between Caucasians from Iowa and Nebraska at Micah house, but that might be somehow related to Micah house being in Iowa. Asians were only represented at the HFS-Other locations, and they use a slightly higher average than other races among the HFS-Other locations, except for Native Americans. Again, the most significant differences between clients seems to be based on facility type – with the biggest difference between schools and reporting centers, followed by schools and sanctuary houses.
 
+</br>
+
 ## Conclusions
 
 After researching the relationship of age, gender identity, and race with the hours of mental health service provided to clients by HFS facilities segmented by facility type, our research indicated very little variance in average service hours by age. Most of the variance in average service encounter duration appears to be between facility types. Schools have the shortest duration and reporting centers have the highest. Sanctuary houses are just behind reporting centers. If this is out of alignment with HFS expectations or standards, the organization might:
@@ -125,6 +144,7 @@ There also appears to be a trend of higher average duration service encounter ho
 
 To a lesser degree, there might be a trend in gender identity that might be worth researching further. Men and women at the reporting centers have an over twenty-point difference. At HFS-Gendler, there is also a twenty-point difference between non-binary clients and women and even more significant difference between non-binary clients and men. 
 
+</br>
 
 ## References
 
