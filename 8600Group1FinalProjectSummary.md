@@ -46,15 +46,6 @@ We performed the following actions to generally clean our data for our use:
 
 ### Mental Health
 
-``` r
-ggplot(HFS_Data, aes(program_name,duration_num,by1=recordID,fill=program_name)) + 
-  geom_boxplot(aes(program_name), alpha=0.3) +
-  xlab("Programs offered") +ylab("Duration")
-    theme(legend.position = "none")
-```
-
-![](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/IntegratedCompleteProject/unnamed-chunk-13-1.png)<!-- -->
-
 After analyzing the data by program types (Mental Health, Gambling, and Substance Use), we determined that HFS provides most of its service hours in this program area compared to the other areas. We removed some unwanted statistical outlier hours from Mental Health duration hours.
 
 ### Service Visit Duration
