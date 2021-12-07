@@ -1,6 +1,7 @@
 # ISQA8600Group1Project
-**-Akhil Kodali, Heather Davis, Scott Bui**
+**Akhil Kodali, Heather Davis, Scott Bui**
 
+### Introduction
 Welcome to the repository for our Group 1 ISQA 8600 assignments. We are students at the University of Nebraska Omaha, and this is where we store our assignments for our ISQA 8600 Data to Decisions class group project. 
 
 ## Assignment Links
