@@ -8,7 +8,7 @@ Click the links that follow for our completed assignments:
 
 [Technical Documentation](https://github.com/hsdavisuno/ISQA8600Group1Project/)
 
-[Project Summary](https://github.com/hsdavisuno/ISQA8600Group1Project/)
+[Project Summary](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/8600Group1FinalProjectSummary.md)
 
 [Project Presentation](https://github.com/hsdavisuno/ISQA8600Group1Project/blob/main/8600Group1FinalPresentation.pdf)
 
