@@ -23,7 +23,7 @@ The entire project’s  contribution begins with the initial scheduling done by 
 
 ## Proofreaders' sign-off statement.
 
-I Heather Davis agree to my knowledge that everything is accurate and consistent in the entierity of this project 
+I, Heather Davis, have proofed this project. 
 
 
 ## License Information
